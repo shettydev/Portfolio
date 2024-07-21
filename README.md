@@ -43,6 +43,6 @@ This is my personal portfolio site built with Next.js, React, and TypeScript. Th
 To get started with the project, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/portfolio-site.git
+git clone [https://github.com/your-username/portfolio-site.git](https://github.com/shettydev/Portfolio)
 cd portfolio-site
-npm install
+bun install
